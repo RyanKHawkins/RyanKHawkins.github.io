@@ -1,18 +1,18 @@
-var subtitles = ["software developer", "app programmer", "webpage designer", "dad", "veteran", "blogger"]
-var subtitle = document.getElementById("subtitle")
+// var subtitles = ["software developer", "app programmer", "webpage designer", "dad", "veteran", "blogger"]
+// var subtitle = document.getElementById("subtitle")
 
-var socialMediaLinks = document.querySelectorAll("a");
+// var socialMediaLinks = document.querySelectorAll("a");
 
-var links = Array.from(socialMediaLinks)
-console.log(links[0].innerHTML)
+// var links = Array.from(socialMediaLinks)
+// console.log(links[0].innerHTML)
 
-var i = 0
-setInterval(
-    () => {
-        subtitle.innerText = subtitles[i % subtitles.length]
-        i++
-    }, 1500
-)
+// var i = 0
+// setInterval(
+//     () => {
+//         subtitle.innerText = subtitles[i % subtitles.length]
+//         i++
+//     }, 1500
+// )
 
 var heroImg = document.querySelector("#hero_img")
 
