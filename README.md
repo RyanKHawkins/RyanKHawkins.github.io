@@ -1,4 +1,4 @@
-# F5DevLife.github.io
+# RyanKHawkins.github.io
 Personal Portfolio
 
 ##### I am in love with the creation and logical aspects of software and game development. It's magic and science.
@@ -16,7 +16,7 @@ Personal Portfolio
 ##### Career/History Outline
 - Started learning Python mid-2019.
 - Decided I didn't want to do data-science.
-- Began learning Javavscript in late 2020.
+- Began learning Javascript in late 2020.
 
 - I am a moderator for several software development streams on [Twitch](https://www.twitch.tv/ryankhawkins).
     - "Mod with the Dad Bod"
